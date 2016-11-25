@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "org.madmobile.cordovaplugins.zbarscanner",
+        "scope": null,
+        "escapedName": "org.madmobile.cordovaplugins.zbarscanner",
+        "name": "org.madmobile.cordovaplugins.zbarscanner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Remco"
+    ]
+  ],
+  "_from": "org.madmobile.cordovaplugins.zbarscanner@latest",
+  "_id": "org.madmobile.cordovaplugins.zbarscanner@1.0.1",
+  "_inCache": true,
+  "_location": "/org.madmobile.cordovaplugins.zbarscanner",
+  "_npmUser": {
+    "name": "mm.igorg",
+    "email": "igorg@madmobile.com"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "org.madmobile.cordovaplugins.zbarscanner",
+    "scope": null,
+    "escapedName": "org.madmobile.cordovaplugins.zbarscanner",
+    "name": "org.madmobile.cordovaplugins.zbarscanner",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/org.madmobile.cordovaplugins.zbarscanner/-/org.madmobile.cordovaplugins.zbarscanner-1.0.1.tgz",
+  "_shasum": "5eb4a9c688061ba98901fe3a193affb5db40aa1e",
+  "_shrinkwrap": null,
+  "_spec": "org.madmobile.cordovaplugins.zbarscanner",
+  "_where": "C:\\Users\\Remco",
+  "author": {
+    "name": "mm.igorg",
+    "email": "igorg@madmobile.com",
+    "url": "http://www.madmobile.com/"
+  },
+  "cordova": {
+    "id": "org.madmobile.cordovaplugins.zbarscanner",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "This plugin integrates with the [ZBar](http://zbar.sourceforge.net/) library,\r exposing a JavaScript interface for scanning barcodes (QR, 2D, etc).",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5eb4a9c688061ba98901fe3a193affb5db40aa1e",
+    "tarball": "https://registry.npmjs.org/org.madmobile.cordovaplugins.zbarscanner/-/org.madmobile.cordovaplugins.zbarscanner-1.0.1.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "9e5a3b387b8496597b817adc2274e523ad9fab7b",
+  "homepage": "https://bitbucket.org/madmobile/mm-zbar#readme",
+  "keywords": [
+    "cszbar",
+    "zbar",
+    "barcode",
+    "qr",
+    "qr code",
+    "scanner",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "mm.igorg",
+      "email": "igorg@madmobile.com"
+    }
+  ],
+  "name": "org.madmobile.cordovaplugins.zbarscanner",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/madmobile/mm-zbar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
